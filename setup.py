@@ -26,7 +26,7 @@ REQUIRES_PYTHON = ">=3.6.0"
 base_packages = [
     # "mlrose @ https://github.com/gkhayes/mlrose/archive/refs/heads/master.zip",
     # "mlrose>=1.3.0,< 2.0",
-    "scikit-learn==1.3.0",
+    "scikit-learn>=1.3.0",
     # "scikit-surprise==1.1.1",
     "torch>=1.13.0,<3.0",
     "pandas<=3.0.0",
